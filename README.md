@@ -33,6 +33,7 @@ Now install within this environment the remaining packages that are part of this
 
 ```bash
 pip install numpy scipy matplotlib scikit-learn pandas
+pip install torch torchvision torchaudio --index-url  https://download.pytorch.org/whl/cpu
 ```
 
 
